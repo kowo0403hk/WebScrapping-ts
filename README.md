@@ -26,9 +26,18 @@ To refetch data, click the "Refetch" button. To clear data on the client side, c
 
 ## Screenshots
 
-![Home Page]()
-![Search All]()
-![Search by ID]()
-![Search by Name]()
+### Target Sites
+Dentrix:
+![Dentrix](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/dentrix-list.png?raw=true)
+
+DentalXChange:
+![DentalXChange](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/dentalXChange-list.png?raw=true)
+
+### Application 
+
+![Home Page](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Home.png?raw=true)
+![Search All](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20All.png?raw=true)
+![Search by ID](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20by%20ID.png?raw=true)
+![Search by Name](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20by%20Name.png?raw=true)
 
 ## Enjoy!
