@@ -35,9 +35,16 @@ DentalXChange:
 
 ### Application 
 
+Home Page:
 ![Home Page](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Home.png?raw=true)
+
+Search All:
 ![Search All](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20All.png?raw=true)
+
+Search by ID:
 ![Search by ID](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20by%20ID.png?raw=true)
+
+Search by Name:
 ![Search by Name](https://github.com/kowo0403hk/WebScrapping-ts/blob/master/screenshots/Search%20by%20Name.png?raw=true)
 
 ## Enjoy!
